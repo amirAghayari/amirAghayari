@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**amirAghayari/amirAghayari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+<h2>👋 Hi! I'm Amirhossein Aghayari</h2> <div style="display:flex; gap:5px; flex-wrap:wrap;"> <p> 💻 **Frontend Developer** passionate about building modern web experiences 🚀 **Daily learner** – Always leveling up my skills 🎓 **Computer Engineering Student** 🌱 Currently mastering: **Next.js** & **TypeScript** 💡 Fun fact: INTJ personality & obsessed with **Go (Golang)** </p> </div>
+🌐 Socials:
+LinkedIn
+Twitter
+Instagram
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Frontend:
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+Next.js
+TailwindCSS
+shadcn/ui
+DaisyUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Libraries:
+Redux
+Figma
+Git
+
+Learning & Interests:
+Go
