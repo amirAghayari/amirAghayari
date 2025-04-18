@@ -1,28 +1,19 @@
 ## Hi there 👋
 
-💫 About Me:
-<h2>👋 Hi! I'm Amirhossein Aghayari</h2> <div style="display:flex; gap:5px; flex-wrap:wrap;"> <p> 💻 **Frontend Developer** passionate about building modern web experiences 🚀 **Daily learner** – Always leveling up my skills 🎓 **Computer Engineering Student** 🌱 Currently mastering: **Next.js** & **TypeScript** 💡 Fun fact: INTJ personality & obsessed with **Go (Golang)** </p> </div>
-🌐 Socials:
-LinkedIn
-Twitter
-Instagram
+# 💫 About Me:
+<h2>👋 Hi! I'm Amirhossein Aghayari</h2>
+<div style="display:flex; gap:5px; flex-wrap:wrap;">
+<p>
+🔭 I'm a Frontend Developer at Espandar Co<br>
+🌱 I'm currently learning Next.js & TypeScript<br>
+💬 Ask me about React and modern frontend tech<br>
+🎓 Computer Engineering Student<br>
+⚡ Fun fact: INTJ personality & love Golang<br>
+</p>
+</div>
 
-💻 Tech Stack:
-Frontend:
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-TailwindCSS
-shadcn/ui
-DaisyUI
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseinaghayari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amirhosseinagh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhosseinaghayari)
 
-Tools & Libraries:
-Redux
-Figma
-Git
-
-Learning & Interests:
-Go
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![shadcn-ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
