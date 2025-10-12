@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=312&color=gradient&text=hello%20,%20Wlc%20to%20my%20github%20&reversal=true)
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=39D0DBC7&width=435&lines=I'm+Amirhossein;A+simple+developer;who+loves+coding+and+learning.)](https://git.io/typing-svg)
 
 # 💫 About Me:
