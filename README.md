@@ -24,4 +24,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,redux,tailwind,supabase,mongodb,express,nestjs,fastapi,postgres,postman,vite,vscode,webstorm,)](https://skillicons.dev)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirAghayari)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirAghayari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
