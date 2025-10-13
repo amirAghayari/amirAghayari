@@ -4,15 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=39D0DBC7&width=435&lines=I'm+Amirhossein;A+simple+developer;who+loves+coding+and+learning.)](https://git.io/typing-svg)
 
-# 💫 About Me:
-<h2>👋 Hi! I'm Amirhossein Aghayari</h2>
+
 <div style="display:flex; gap:5px; flex-wrap:wrap;">
 <p>
-🔭 I'm a Frontend Developer at Espandar Co<br>
-🌱 I'm currently learning Next.js & TypeScript<br>
-💬 Ask me about React and modern frontend tech<br>
+🔭 I'm just a programmer <br>
+🌱 I'm based in Ardabil , IRI <br>
+💬 You can contact to me at amirAghayari2119@gmail.com <br>
 🎓 Computer Engineering Student<br>
-⚡ Fun fact: INTJ personality & love Golang<br>
+⚡ Learning NestJs and leveling up my backend skils <br>
+🌐 Experienced in building scalable web apps & APIs <br>
+🤝 I'm open to collaborating on web develop <br>
 </p>
 </div>
 
