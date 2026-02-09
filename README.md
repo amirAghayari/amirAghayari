@@ -1,5 +1,5 @@
-![Header](![Header](./your-header-image-name.png))
 
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/87f2ba08-f4bd-4e12-9698-4c1b6e6d2544" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=39D0DBC7&width=435&lines=I'm+Amirhossein;A+simple+developer;who+loves+coding+and+learning.)](https://git.io/typing-svg)
