@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Full-Stack Engineer with around **4 years of practical experience**, currently specializing in **Backend Engineering and Software Architecture**.
+I am a Full-Stack Engineer with around **3 years of practical experience**, currently specializing in **Backend Engineering and Software Architecture**.
 
 My journey started with full-stack development, where I built complete web applications across frontend and backend ecosystems. Over time, my main focus shifted toward backend engineering — designing scalable APIs, improving system reliability, and understanding how large software systems are structured.
 
