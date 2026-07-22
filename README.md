@@ -166,10 +166,11 @@ My long-term goal is to become an engineer who can design and build reliable sys
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent&ring=94a3b8&fire=64748b&currStreakLabel=cbd5e1" />
 
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amirAghayari?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amirAghayari?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ---
