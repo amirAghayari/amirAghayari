@@ -1,4 +1,4 @@
-# 🚀 Backend Engineer · Clean Architecture · Scalable Systems
+# 🚀 Backend Developer · Clean Architecture · Scalable Systems
 
 <div align="center">
 
@@ -28,7 +28,7 @@ Currently, I am on the path of becoming a stronger Backend Engineer by learning 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,go,docker,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,docker,redis" />
 
 </div>
 
@@ -47,7 +47,7 @@ Currently, I am on the path of becoming a stronger Backend Engineer by learning 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker" />
 
 </div>
 
@@ -168,21 +168,25 @@ My long-term goal is to become an engineer who can design and build reliable sys
 
 </div>
 
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amirAghayari?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
 ---
 
 # 📫 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/amirhosseinaghayari">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_TELEGRAM_URL">
+<a href="https://t.me/maqhbul">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amiraghayari2119@gmail..com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
