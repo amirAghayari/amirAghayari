@@ -1,134 +1,168 @@
-# 🚀 Backend Engineer · Scaling APIs · Clean Architecture
+# 🚀 Backend Engineer · Clean Architecture · Scalable Systems
 
 <div align="center">
 
-### Building reliable systems, scalable APIs, and maintainable software architectures.
+### Building reliable backend systems with clean architecture and scalable engineering practices.
 
-**Backend Engineer | Full-Stack Developer focused on Backend Engineering | Software Architect in Progress**
+**Backend-Focused Full-Stack Engineer | Backend Engineering Journey | Software Architecture Enthusiast**
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Full-Stack Engineer with around **4 years of practical experience** building modern web applications, with a strong focus on **backend engineering, system design, and scalable architectures**.
+I am a Full-Stack Engineer with around **4 years of practical experience**, currently specializing in **Backend Engineering and Software Architecture**.
 
-My journey started across the full-stack ecosystem, but my main passion evolved toward designing robust backend systems, clean architectures, and high-performance services. I specialize in **TypeScript, Node.js, NestJS, and Clean Architecture**, with a strong interest in writing maintainable, testable, and scalable software.
+My journey started with full-stack development, where I built complete web applications across frontend and backend ecosystems. Over time, my main focus shifted toward backend engineering — designing scalable APIs, improving system reliability, and understanding how large software systems are structured.
 
-I enjoy solving complex engineering problems, improving system reliability, and continuously exploring advanced backend concepts such as distributed systems, performance optimization, and software architecture.
+I work primarily with **TypeScript, Node.js, Express, and NestJS**, while continuously deepening my knowledge of **Clean Architecture, Design Patterns, Database Design, and System Design**.
 
----
-
-# ⚙️ Technical Expertise
-
-## Backend & Architecture
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,go,docker,redis,graphql" />
-
-</div>
-
-**Focus Areas:**
-
-- Designing scalable RESTful APIs and backend services
-- Applying Clean Architecture and Layered Architecture principles
-- Writing maintainable code using SOLID principles and Design Patterns
-- Building secure authentication and authorization systems
-- Improving API performance through caching, indexing, and optimization
-- Exploring Golang for high-performance backend systems
+Currently, I am on the path of becoming a stronger Backend Engineer by learning advanced backend architectures, distributed systems concepts, and scalable software design principles.
 
 ---
 
-## 🗄️ Database & Infrastructure
+# 🛠️ Technical Skills
+
+## Backend Engineering & Architecture
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma,docker,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,go,docker,redis" />
 
 </div>
 
-**Focus Areas:**
+**Engineering Focus:**
 
-- Designing efficient database schemas with scalability in mind
-- Database optimization through indexing and query improvements
+- Building scalable RESTful APIs and backend services
+- Designing maintainable applications using Clean Architecture principles
+- Applying SOLID principles and Design Patterns for better code quality
+- Understanding backend architecture patterns and service organization
+- Implementing authentication, authorization, validation, and security practices
+- Exploring Golang for future high-performance backend development
+
+---
+
+## 🗄️ Database & Backend Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,linux" />
+
+</div>
+
+**Engineering Focus:**
+
+- Designing database schemas based on application requirements
+- Query optimization, indexing strategies, and performance improvements
 - Working with PostgreSQL, MongoDB, TypeORM, and Mongoose
-- Applying Domain-Driven Design concepts in data modeling
-- Building reliable backend infrastructure with Docker-based workflows
+- Applying Domain-Driven Design concepts in backend projects
+- Building reliable data layers with scalability in mind
 
 ---
 
-## 🌐 Frontend & Development Tools
+## 🌐 Frontend & Development Ecosystem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,git,github" />
 
 </div>
 
-**Focus Areas:**
+**Engineering Focus:**
 
-- Building modern frontend applications with React and Next.js
-- Creating scalable UI systems with Tailwind CSS and Shadcn
-- Managing application state using Redux Toolkit and React Query
-- Developing type-safe applications with TypeScript
-- Creating API documentation with Swagger/OpenAPI
-- Writing Unit and Integration Tests to improve software reliability
+- Developing modern frontend applications with React and Next.js
+- Creating reusable UI systems with Tailwind CSS and Shadcn
+- Managing complex frontend state using Redux Toolkit and React Query
+- Building type-safe applications with TypeScript
+- Maintaining consistency between frontend and backend architecture
 
 ---
 
-# 💡 What I Bring to a Team
+# 💡 What I Bring to Engineering Teams
 
-### 🏗️ Clean Architecture & Maintainable Systems
+### 🏗️ Clean & Maintainable Code
 
-Designing backend structures that are easier to scale, test, and evolve by applying architectural principles and separation of concerns.
+I focus on writing structured, readable, and maintainable code by applying software engineering principles rather than only delivering features.
 
-### ⚡ Performance & Scalability Improvements
+---
 
-Optimizing APIs through caching strategies, database indexing, query optimization, and efficient backend workflows.
+### ⚡ Backend Performance & Scalability
 
-### 🔐 Reliable Backend Development
+I enjoy improving backend systems through:
 
-Building secure authentication flows, validation systems, error handling strategies, and production-ready services.
+- Database optimization
+- Efficient API design
+- Caching strategies
+- Better architecture decisions
 
-### 🧪 Quality-Focused Engineering
+---
 
-Writing Unit and Integration tests to reduce production issues and increase confidence during development and deployment.
+### 🧩 Architecture Thinking
 
-### 📚 Engineering Documentation
+I am continuously learning and applying:
 
-Creating clear technical documentation using tools like Swagger/OpenAPI to improve collaboration between teams.
+- Clean Architecture
+- Layered Architecture
+- Design Patterns
+- Domain-Driven Design concepts
+- System Design principles
+
+with the goal of building systems that can evolve as they grow.
+
+---
+
+### 🧪 Quality-Oriented Development
+
+I believe reliable software requires confidence in changes.
+
+I practice:
+
+- Unit Testing
+- Integration Testing
+- API Testing
+- Swagger/OpenAPI documentation
+
+to improve maintainability and reduce production issues.
+
+---
 
 ### 🤝 Team Collaboration
 
-Experienced in collaborative development environments, code reviews, Git workflows, and modern project management practices.
+Experienced with:
+
+- Git-based workflows
+- Code Reviews
+- Agile development environments
+- Project management tools such as Linear
+
+and collaborating with teams to deliver high-quality software.
 
 ---
 
-# 🌱 Current Learning Path
+# 🌱 Current Learning Journey
 
-I am continuously improving my backend engineering skills by diving deeper into:
+My current focus is becoming a stronger **Backend Engineer** by going deeper into:
 
-- Distributed Systems Concepts
+- Backend Architecture Patterns
 - Advanced System Design
+- Distributed Systems
+- Scalable Infrastructure
 - High-performance Backend Development
-- Cloud-native Architectures
-- Scalable Infrastructure Patterns
 
-Currently, I am moving toward **Golang development** and exploring how large-scale distributed systems are designed, optimized, and maintained.
+I am also actively learning **Golang** as part of my journey toward building efficient and scalable backend services.
 
-My goal is to become an engineer capable of designing and building reliable systems that handle real-world complexity.
+My long-term goal is to become an engineer who can design and build reliable systems that solve complex real-world problems.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=94a3b8&text_color=cbd5e1&icon_color=64748b" />
 
-<br />
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent&ring=94a3b8&fire=64748b&currStreakLabel=cbd5e1" />
 
@@ -136,7 +170,7 @@ My goal is to become an engineer capable of designing and building reliable syst
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -158,6 +192,7 @@ My goal is to become an engineer capable of designing and building reliable syst
 
 <div align="center">
 
-### Building software with a focus on architecture, scalability, and engineering excellence.
+### Learning. Building. Improving.
+### Focused on backend engineering and scalable software systems.
 
 </div>
