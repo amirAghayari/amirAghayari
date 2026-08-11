@@ -1,4 +1,3 @@
-
 👋 Hey, I’m Amirhossein
 
 Backend-Focused Engineer · Software Architecture Enthusiast
@@ -62,22 +61,6 @@ I’m currently exploring:
 * Golang
 
 My goal is to become an engineer capable of designing and building reliable systems that scale with real-world complexity.
-
-⸻
-
-📌 Featured Project
-
-🎟️ Event Ticketing API
-
-A production-oriented backend for event management and ticket reservations, built with a focus on reliability, concurrency, and scalability.
-
-Stack
-
-TypeScript · Node.js · Express · PostgreSQL · TypeORM · Redis · Docker
-
-Engineering Concepts
-
-Clean Architecture · Transactions · Concurrency Control · Pessimistic Locking · Integration Testing · REST API
 
 ⸻
 
