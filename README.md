@@ -6,8 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://amiraghayari.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-64748b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseinaghayari)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-64748b?style=flat-square&logo=telegram&logoColor=white)](https://t.me/maqhbul)
-[![Email](https://img.shields.io/badge/Email-Contact-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:amiraghayari@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-64748b?style=flat-square&logo=telegram&logoColor=white)](https://t.me/VebIag)
+[![Email](https://img.shields.io/badge/Email-Contact-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:amiraghayari2119@gmail.com)
 
 </div>
 
@@ -93,13 +93,13 @@ My long-term direction is to become a Software Engineer capable of designing and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirAghayari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirAghayari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=cbd5e1&icon_color=818cf8&ring_color=818cf8&rank_icon=github&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirAghayari&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirAghayari&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=cbd5e1&langs_count=6" />
 
 <br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirAghayari&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=64748b" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirAghayari&hide_border=true&background=0d1117&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
 </div>
 
