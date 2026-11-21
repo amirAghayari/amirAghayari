@@ -1,120 +1,116 @@
  <div align="center">
 
-Amirhossein Aghayari
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1e1b4b,100:312e81&text=Amirhossein%20Aghayari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" />
 
-Backend-Focused Software Engineer
+### Designing systems. Solving problems. Engineering with purpose.
 
-Backend Engineering · Software Architecture · System Design
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-818cf8?style=flat-square&logo=googlechrome&logoColor=white)](https://amiraghayari.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-64748b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseinaghayari)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-64748b?style=flat-square&logo=telegram&logoColor=white)](https://t.me/maqhbul)
+[![Email](https://img.shields.io/badge/Email-Contact-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:amiraghayari@gmail.com)
 
-Building maintainable, reliable, and scalable software systems.
+</div>
+
+---
+
+## 01 / Profile
+
+I'm a Full-Stack Engineer with a strong focus on **Backend Engineering, Software Architecture, and System Design**.
+
+I enjoy working on the engineering challenges behind software products — designing APIs, structuring databases, building backend services, and improving system reliability.
+
+My approach is centered around writing software that is:
+
+- **Maintainable** — easy to understand and evolve.
+- **Reliable** — designed with consistency and failure handling in mind.
+- **Scalable** — built to handle growing requirements.
+- **Testable** — structured for confidence and predictable behavior.
+
+I believe great engineering is not just about writing code. It's about making thoughtful technical decisions.
+
+---
+
+## 02 / Technology
+
+<div align="center">
+
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,express,nestjs&theme=dark" />
+
+**DATABASE & CACHING**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+
+**INFRASTRUCTURE & DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" />
+
+</div>
+
+---
+
+## 03 / Engineering Philosophy
+
+My interests go beyond frameworks and programming languages.
+
+I'm particularly interested in understanding the principles that make software systems easier to build, maintain, and scale.
+
+| Area | Focus |
+|:--|:--|
+| Architecture | Clean Architecture, SOLID, DDD |
+| Design | Design Patterns, Separation of Concerns |
+| System Design | Distributed Systems, Scalability |
+| Databases | Data Modeling, Query Optimization |
+| Performance | Caching, Resource Optimization |
+| Quality | Testing, Reliability, Maintainability |
+
+> Good architecture is not about adding complexity. It's about managing complexity.
+
+---
+
+## 04 / Current Direction
+
+I'm continuously investing in my backend engineering skills and deepening my understanding of how production-grade systems are designed.
+
+**Currently exploring:**
+
+- Advanced Software Architecture
+- Distributed Systems & System Design
+- High-Performance Backend Services
+- Infrastructure & Scalability
+- Golang
+
+My long-term direction is to become a Software Engineer capable of designing and building reliable systems under real-world constraints.
+
+---
+
+## 05 / GitHub Overview
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirAghayari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirAghayari&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
 
 <br/>
 
-<a href="https://linkedin.com/in/amirhosseinaghayari">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/maqhbul">
-  <img src="https://img.shields.io/badge/Telegram-Contact-6366f1?style=flat-square&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:amiraghayari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6366f1?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://amiraghayari.ir">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirAghayari&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=64748b" />
 
 </div>
 
-About Me
-
-I'm a Full-Stack Engineer with a strong focus on Backend Engineering and Software Architecture.
-
-I enjoy designing and building backend systems, working with databases, developing reliable APIs, and solving engineering challenges.
-
-My approach to software development goes beyond making things work. I care about writing clean, maintainable, testable, and scalable code.
-
-I'm continuously improving my engineering skills, exploring architectural concepts, and learning how to design systems that handle real-world complexity.
-
-Technical Stack
-
-Backend Engineering
-
-<div>
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,nestjs" />
-</div>
-
-Databases & Caching
-
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</div>
-
-Infrastructure & Tools
-
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-</div>
-
-Frontend Development
-
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" />
-</div>
-
-Engineering Interests
-
-I'm particularly interested in the engineering principles behind reliable and scalable software:
-
-Software Architecture & Clean Architecture
-
-SOLID Principles & Design Patterns
-
-Domain-Driven Design (DDD)
-
-System Design & Distributed Systems
-
-Database Design & Query Optimization
-
-Caching Strategies & Performance Optimization
-
-API Design & Backend Security
-
-Testing, Reliability & Maintainability
-
-I believe good software architecture is about managing complexity and making systems easier to evolve over time.
-
-Currently Exploring
-
-My current learning path is focused on becoming a stronger Backend Engineer and developing a deeper understanding of large-scale systems.
-
-Advanced Backend Architecture
-
-Distributed Systems
-
-System Design
-
-High-Performance Backend Services
-
-Infrastructure & Scalability
-
-Golang
-
-GitHub Statistics
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amirAghayari&show_icons=true&hide_border=true&theme=transparent&title_color=818cf8&text_color=94a3b8&icon_color=818cf8&include_all_commits=true" />
+### ENGINEERING IS A CONTINUOUS PROCESS.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirAghayari&layout=compact&hide_border=true&theme=transparent&title_color=818cf8&text_color=94a3b8" />
+**Build thoughtfully. Learn constantly. Improve relentlessly.**
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirAghayari&hide_border=true&theme=transparent&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
-
-</div>
-
-<div align="center">
-
-Build. Understand. Improve.
-
-Focused on engineering better software, one system at a time.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=100&section=footer" />
 
 </div>
